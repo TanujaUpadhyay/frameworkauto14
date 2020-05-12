@@ -16,6 +16,7 @@ public class alert {
 		//d.findElement(By.xpath(".//*[@id='multicity']/label")).click();
 		System.out.println("After clicking on MultiCity Radio Button");
 		System.out.println("After clicking on MultiCity Radio Button");
+		System.out.println("After clicking on MultiCity Radio Button");
 				d.findElement(By.xpath(".//*[@id='hp-widget__depart']")).click();
 		Thread.sleep(3000L);
 		d.findElement(By.xpath(".//*[@id='dp1509388264749']/div/div[1]/table/tbody/tr[3]/td[4]")).click();
